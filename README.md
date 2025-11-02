@@ -1,16 +1,25 @@
-## Hi there 👋
+<h1>👋 Hi, I'm Ruslan Makhno</h1>
+<p>
+  Unity Developer • C# • Multiplayer • Optimization
+</p>
 
-<!--
-**Ruslan1M/Ruslan1M** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🧑‍💻 About me
+- 🕹 5+ years with Unity & C#
+- 🔌 SDKs: IAP, AppsFlyer, Bright, etc
+- 🌐 Multiplayer: Photon Quantum, PUN2
+- 🧰 Tooling: Zenject, DOTween, Odin, Addressables
+- 🛠 Optimization: Profiler, FrameDebugger, Logcat
+- ⚙️ Async Programming: Task, async/await, UniTask
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Portfolio
+- [My Web](https://sites.google.com/view/ruslan-makhno-portfolio)
+
+---
+
+### 📫 Contacts
+- LinkedIn: [ruslan_makhno](linkedin.com/in/ruslan-makhno)
+- Email: ruslan.makhn@gmail.com
