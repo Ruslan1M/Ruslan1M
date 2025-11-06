@@ -1,6 +1,6 @@
 <h1>👋 Hi, I'm Ruslan Makhno</h1>
 <p>
-  Unity Developer • C# • Multiplayer • Optimization
+  Unity Developer • C# • Multiplayer • Optimization • Porting
 </p>
 
 ---
@@ -9,8 +9,8 @@
 - 🕹 5+ years with Unity & C#
 - 🔌 SDKs: IAP, AppsFlyer, Bright, etc
 - 🌐 Multiplayer: Photon Quantum, PUN2
-- 🧰 Tooling: Zenject, DOTween, Odin, Addressables
-- 🛠 Optimization: Profiler, FrameDebugger, Logcat
+- 🧰 Tooling: Zenject, DOTween, Odin, Addressables, AssetBundles
+- 🛠 Optimization: Profiler, FrameDebugger, MemoryProfiler
 - ⚙️ Async Programming: Task, async/await, UniTask
 
 ---
